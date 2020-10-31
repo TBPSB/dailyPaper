@@ -26,9 +26,8 @@ const NavButtons = (props) => {
     const styles = {
         buttonContainer: {
             display: 'flex',
-            width: '100px',
             justifyContent: 'space-between',
-            margin: '10px 0'
+            margin: '10px 100px'
         }
     };
 
